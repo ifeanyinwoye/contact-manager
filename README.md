@@ -1,1 +1,1 @@
-# contact-manager
+# contactmanager
